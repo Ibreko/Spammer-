@@ -1,4 +1,4 @@
-#Spam Bot for Telegram and WhatsApp
+# Spam Bot for Telegram and WhatsApp
 
 
 The Spam Bot is a Python script designed for sending repetitive messages to specified contacts or groups on Telegram and WhatsApp. Developed for fun and entertainment purposes, this spammer is intended for harmless pranks and jokes among friends.
